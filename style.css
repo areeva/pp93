@@ -1,0 +1,27 @@
+button{
+    border-color: rgb(94, 0, 128);
+    border-style: dotted;
+    cursor: pointer;
+    color: rgb(183, 0, 255);
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(155, 32, 231);
+}
+body{
+    background-color: rgb(181, 118, 244);
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+.logo{
+  
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: rgb(255, 0, 200);
+    border-style: solid;
+}
